@@ -8,6 +8,9 @@ This project is part of the "NAND to Tetris" journey, where we build a computer 
 - **C++ Compiler**: For compiling the testbench.
 - **Make**: For building the project.
 
+### V1.0.0 ALU implementation
+![ALU](https://github.com/user-attachments/assets/5b85bf53-a714-4a5e-9b5a-6c6a0db6072b)
+
 ### Installation
 
 **Clone the repository**:
@@ -22,3 +25,4 @@ verilator -Wall --trace --cc NAND.v AND.v OR.v top.v --top-module top --exe top.
 make -C obj_dir -j -f Vtop.mk Vtop
 ./obj_dir/Vtop
 ```
+
