@@ -9,7 +9,6 @@ This project is part of the "NAND to Tetris" journey, where we build a computer 
 - **Make**: For building the project.
 
 ### V1.0.0 ALU implementation
-![ALU](https://github.com/user-attachments/assets/5b85bf53-a714-4a5e-9b5a-6c6a0db6072b)
 
 ### Installation
 
